@@ -82,7 +82,7 @@ graphene/
 ## Future Work
 - Vacancy defect in graphene
 - Nitrogen/Boron doping
-- Superface adsorption using Lithium
+- Surface adsorption using Lithium
 
 ---
 
