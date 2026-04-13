@@ -82,7 +82,7 @@ graphene/
 ## Future Work
 - Vacancy defect in graphene
 - Nitrogen/Boron doping
-- Supercell modeling
+- Superface adsorption using Lithium
 
 ---
 
